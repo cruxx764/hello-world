@@ -1,2 +1,6 @@
 # hello-world
-Just another depository 
+
+
+My first branch
+
+I'm learning Javascript and JS node
